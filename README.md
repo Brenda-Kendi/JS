@@ -1,0 +1,1 @@
+Basics on adding, removing and filtering data using JavaScript.
